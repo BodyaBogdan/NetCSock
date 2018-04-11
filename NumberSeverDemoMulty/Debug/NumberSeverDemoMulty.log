@@ -1,0 +1,21 @@
+﻿  NumberSeverDemoMulty.cpp
+c:\users\roman\source\repos\netprogrammingexamples2\numberseverdemomulty\numberseverdemomulty.cpp(51): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\um\winsock2.h(1830): note:  см. объявление "inet_addr"
+c:\users\roman\source\repos\netprogrammingexamples2\numberseverdemomulty\numberseverdemomulty.cpp(60): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1772): note:  см. объявление "sprintf"
+c:\users\roman\source\repos\netprogrammingexamples2\numberseverdemomulty\numberseverdemomulty.cpp(121): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(93): note:  см. объявление "strcat"
+c:\users\roman\source\repos\netprogrammingexamples2\numberseverdemomulty\numberseverdemomulty.cpp(122): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(93): note:  см. объявление "strcat"
+c:\users\roman\source\repos\netprogrammingexamples2\numberseverdemomulty\numberseverdemomulty.cpp(136): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(2260): note:  см. объявление "sscanf"
+c:\users\roman\source\repos\netprogrammingexamples2\numberseverdemomulty\numberseverdemomulty.cpp(137): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(2260): note:  см. объявление "sscanf"
+c:\users\roman\source\repos\netprogrammingexamples2\numberseverdemomulty\numberseverdemomulty.cpp(138): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(2260): note:  см. объявление "sscanf"
+c:\users\roman\source\repos\netprogrammingexamples2\numberseverdemomulty\numberseverdemomulty.cpp(144): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note:  см. объявление "strcpy"
+c:\users\roman\source\repos\netprogrammingexamples2\numberseverdemomulty\numberseverdemomulty.cpp(158): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\um\winsock2.h(1848): note:  см. объявление "inet_ntoa"
+  NumberSeverDemoMulty.vcxproj -> C:\Users\Roman\source\repos\netprogrammingexamples2\Debug\NumberSeverDemoMulty.exe
+  NumberSeverDemoMulty.vcxproj -> C:\Users\Roman\source\repos\netprogrammingexamples2\Debug\NumberSeverDemoMulty.pdb (Partial PDB)

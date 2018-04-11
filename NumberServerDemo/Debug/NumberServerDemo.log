@@ -1,0 +1,18 @@
+﻿  stdafx.cpp
+  NumberServerDemo.cpp
+c:\users\roman\source\repos\netprogrammingexamples2\numberserverdemo\numberserverdemo.cpp(60): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note:  см. объявление "sprintf"
+c:\users\roman\source\repos\netprogrammingexamples2\numberserverdemo\numberserverdemo.cpp(105): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note:  см. объявление "strcat"
+c:\users\roman\source\repos\netprogrammingexamples2\numberserverdemo\numberserverdemo.cpp(106): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note:  см. объявление "strcat"
+c:\users\roman\source\repos\netprogrammingexamples2\numberserverdemo\numberserverdemo.cpp(120): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2254): note:  см. объявление "sscanf"
+c:\users\roman\source\repos\netprogrammingexamples2\numberserverdemo\numberserverdemo.cpp(121): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2254): note:  см. объявление "sscanf"
+c:\users\roman\source\repos\netprogrammingexamples2\numberserverdemo\numberserverdemo.cpp(122): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2254): note:  см. объявление "sscanf"
+c:\users\roman\source\repos\netprogrammingexamples2\numberserverdemo\numberserverdemo.cpp(128): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+  NumberServerDemo.vcxproj -> C:\Users\Roman\source\repos\netprogrammingexamples2\Debug\NumberServerDemo.exe
+  NumberServerDemo.vcxproj -> C:\Users\Roman\source\repos\netprogrammingexamples2\Debug\NumberServerDemo.pdb (Partial PDB)
